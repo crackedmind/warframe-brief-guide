@@ -31,5 +31,5 @@
 
 P.P.P.S. Если вам понравилась информация или есть замечания/дополнения присоединяйтесь к редактированию документа на Github
 
-https://github.com/crackedmind/warframe-brief-guide
+https://github.com/crackedmind/warframe-brief-guide/blob/master/source/contents.rst
 
