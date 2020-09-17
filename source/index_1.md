@@ -2,6 +2,7 @@
 
 
 # Ссылки
+* [Начать игру] - Начните играть с этой ссылки
 * [Скачать Warframe] - Официальный сайт!
 * [Warframe Steam] - Страница Warframe в STEAM
 * [brief-guide] - Наш простой, но внятный справочник
@@ -12,7 +13,7 @@
 * [Markdown] - официальный гайд по оформлению markdown (для внесения правок)
 * [Reddit memes] - Англоязычные мемы на реддите
 
-  
+   [Начать игру]: <https://www.warframe.com/ru/signup?referrerId=515831f11a4d80bc69000028>
    [Скачать Warframe]: <https://warframe.com>
    [Warframe Steam]: <https://store.steampowered.com/app/230410/Warframe/>
    [brief-guide]: <https://warframe-brief-guide.readthedocs.io>
