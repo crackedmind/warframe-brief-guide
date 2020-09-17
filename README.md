@@ -1,4 +1,12 @@
+**[ссылка на Краткий справочник](https://warframe-brief-guide.readthedocs.io)**
+
+**[Переход в оглавление](index.md)**
+
+
 # warframe-brief-guide
+
+https://warframe-brief-guide.readthedocs.io
+
 Warframe "brief" (hahaha) guide
 и что можно внести в ридми?
 
