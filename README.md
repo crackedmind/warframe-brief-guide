@@ -9,6 +9,7 @@
 * [WiSoRu]- Группа по вселенной Warframe
 * [Telegram chat] - Наш уютненький чат
 * [Markdown] - официальный гайд по оформлению markdown (для внесения правок)
+* [Reddit memes] - Англоязычные мемы на реддите
 
 
 
@@ -19,10 +20,16 @@
    [WiSoRu]: <https://vk.com/wisoru>
    [Telegram chat]: <https://t.me/warframe_ru>
    [Markdown]: <https://gist.github.com/Jekins/2bf2d0638163f1294637>
+   [Reddit memes]: <https://www.reddit.com/r/memeframe/>
 
+**[Переход в оглавление](source/index.md)**
 
+# 
 
+# Как помочь проекту?!
 
-
-
+  - Если вы нашли ошибку - делайте изменение, оставляйте pull request. в комментариях укажите, источник исправления, мы проверим и внесём изменения
+  - Так же можно оставить в Issues ссылку на ошибку
+  - Есть что добавить? ждём ваши предолжения в pull requests
+  - Вступайте в наш чат! мы всегда рады новым игрокам, как новичками, так и PRO игрокам
 
