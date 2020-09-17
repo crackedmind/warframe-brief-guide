@@ -1,6 +1,6 @@
 **[ссылка на Краткий справочник](https://warframe-brief-guide.readthedocs.io)**
 
-**[Переход в оглавление](index.md)**
+**[Переход в оглавление](source/index.md)**
 
 
 # warframe-brief-guide
