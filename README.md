@@ -1,7 +1,13 @@
 [![N|Warframe](http://n9e5v4d8.ssl.hwcdn.net/images/longlanding/logo.svg)](https://www.warframe.com/ru/signup?referrerId=515831f11a4d80bc69000028) 
 
 # 
-[![Discord](https://img.shields.io/discord/284757617778360320?label=discord)](https://discord.gg/uY7GJNp) ![readthedocs](https://readthedocs.org/projects/warframe-brief-guide/badge/?version=latest)
+[![Discord](https://img.shields.io/discord/284757617778360320?label=discord)](https://discord.gg/uY7GJNp) 
+![readthedocs](https://readthedocs.org/projects/warframe-brief-guide/badge/?version=latest) 
+![GitHub repo size](https://img.shields.io/github/repo-size/crackedmind/warframe-brief-guide) 
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/crackedmind/warframe-brief-guide)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/crackedmind/warframe-brief-guide)
+![GitHub last commit](https://img.shields.io/github/last-commit/crackedmind/warframe-brief-guide)
+
 # Ссылки
 * [Начать игру] - Начните играть с этой ссылки
 * [Warframe Steam] - Страница Warframe в STEAM
