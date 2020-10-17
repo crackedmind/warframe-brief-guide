@@ -31,4 +31,4 @@ P.P.P.S. Если вам понравилась информация или ес
 
 https://github.com/crackedmind/warframe-brief-guide
 
-**https://warframe-brief-guide.readthedocs.io**
+https://warframe-brief-guide.readthedocs.io
