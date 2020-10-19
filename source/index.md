@@ -1,3 +1,5 @@
+[![N|Warframe](http://n9e5v4d8.ssl.hwcdn.net/images/longlanding/logo.svg)](https://www.warframe.com/ru/signup?referrerId=515831f11a4d80bc69000028)
+
 # Краткий справочник по Warframe
 
 ## Содержание
