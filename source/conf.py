@@ -22,7 +22,7 @@ copyright = '2020, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-release = '29.3.1.1'
+release = '29.7.0'
 
 # -- General configuration ---------------------------------------------------
 
