@@ -18,11 +18,11 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Warframe briefe guide'
-copyright = '2020, Alexander Tomlenov'
+copyright = '2021, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-release = '29.10.1'
+release = '30.0.0'
 
 # -- General configuration ---------------------------------------------------
 
