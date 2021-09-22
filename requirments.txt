@@ -1,0 +1,3 @@
+sphinx==4.2.0
+myst-parser==0.15.2
+sphinx-material==0.0.34
