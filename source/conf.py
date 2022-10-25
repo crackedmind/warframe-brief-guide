@@ -21,7 +21,7 @@ copyright = '2021-2022, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-release = '31.1.3'
+release = '32.0.13'
 
 # -- General configuration ---------------------------------------------------
 
@@ -44,7 +44,6 @@ language = 'ru'
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['crapbook.md']
-
 
 # -- Options for HTML output -------------------------------------------------
 
