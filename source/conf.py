@@ -17,11 +17,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Warframe briefe guide'
-copyright = '2021-2022, Alexander Tomlenov'
+copyright = '2021-2023, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-release = '32.1.3'
+release = '33.0.1'
 
 # -- General configuration ---------------------------------------------------
 
