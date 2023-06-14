@@ -21,7 +21,7 @@ copyright = '2021-2023, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-release = '33.0.1'
+release = '33.0.14'
 
 # -- General configuration ---------------------------------------------------
 
