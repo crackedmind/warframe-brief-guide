@@ -21,12 +21,7 @@ copyright = '2021-2026, Alexander Tomlenov'
 author = 'Alexander Tomlenov'
 
 # The full version, including alpha/beta/rc tags
-<<<<<<< HEAD
-release = '42.0.1'
-=======
-release = '42.0.1'
->>>>>>> b4b7415b92c80e8705d4f0c43172ae40272b9c51
-
+release = '42.0.7'
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
