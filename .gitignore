@@ -1,1 +1,12 @@
+# Global ignoring of different binaries and another temporary files
+
+# System cache
+Thumbs.db
+.DS_Store
+
+# Python cache and settings
+.pip/
+.venv/
+
+# Build results
 build/
